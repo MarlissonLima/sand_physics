@@ -11,3 +11,7 @@
   execute o main.py
   pressione "Q" para areia azul
   pressione "botao esquerdo do mouse" para areia amarela
+
+
+https://github.com/MarlissonLima/sand_physics/assets/137208787/fed994b6-7616-4cc5-baf8-378afab9bcfd
+
